@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "car-deal_db",
+            "connectString": "postgres://futrwmcb:hNmbiR8KuhTDS7nTJ6UwPb6rj7NWzuct@kashin.db.elephantsql.com/futrwmcb"
+        }
+    ]
+}
